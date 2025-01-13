@@ -24,3 +24,7 @@ Technical Details
     FAISS for efficient similarity search
     
     Data: The chatbot uses a dataset of scraped text from the SYL blog.
+
+
+sample website images
+
