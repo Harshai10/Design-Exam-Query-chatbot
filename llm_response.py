@@ -23,13 +23,12 @@ script_dir = 'Your CSV file dir'
 os.chdir(script_dir)
 
 # Defining the credentials and Models
-gpt_model = 'your gpt model' #'gpt-3.5-turbo-0613' 
-embedding_model = ""
 
-# Get environment variables
-# openai.api_key = os.getenv("OPENAI_KEY")
-# gpt_model = os.getenv("GPT_MODEL")
-# embedding_model = os.getenv("EMBEDDING_MODEL")
+
+#Get environment variables
+openai.api_key = os.getenv("OPENAI_KEY")
+gpt_model = os.getenv("GPT_MODEL")
+embedding_model = os.getenv("EMBEDDING_MODEL")
 
 # Create an instance of the ChatOpenAI class
 client = OpenAI(api_key = "your API key")
