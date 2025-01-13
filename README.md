@@ -29,17 +29,17 @@ Technical Details
 sample website images
 
 outlook-
-(![Screenshot 2025-01-13 151225](https://github.com/user-attachments/assets/5c07d52f-715b-4529-bbd2-938bb618defe)
+![Screenshot 2025-01-13 151225](https://github.com/user-attachments/assets/5c07d52f-715b-4529-bbd2-938bb618defe)
 
 pre-trained query asked with a generative answer
-(![Screenshot 2025-01-13 151309](https://github.com/user-attachments/assets/320c8f87-4190-4dd4-8d38-d29214221d4a)
+![Screenshot 2025-01-13 151309](https://github.com/user-attachments/assets/320c8f87-4190-4dd4-8d38-d29214221d4a)
 
 additional query
-(![Screenshot 2025-01-13 151339](https://github.com/user-attachments/assets/2cc8ec0b-fddc-44f4-988c-53840408a588)
+![Screenshot 2025-01-13 151339](https://github.com/user-attachments/assets/2cc8ec0b-fddc-44f4-988c-53840408a588)
 
 its response
-(![Screenshot 2025-01-13 151351](https://github.com/user-attachments/assets/e599489e-510d-45b0-83e8-ec7b4a474931)
+![Screenshot 2025-01-13 151351](https://github.com/user-attachments/assets/e599489e-510d-45b0-83e8-ec7b4a474931)
 
 questions present
-(![Screenshot 2025-01-13 151413](https://github.com/user-attachments/assets/42dac2f3-1b8d-4bf3-bef4-2e348fae1beb)
+![Screenshot 2025-01-13 151413](https://github.com/user-attachments/assets/42dac2f3-1b8d-4bf3-bef4-2e348fae1beb)
 
