@@ -8,9 +8,9 @@ import pandas as pd
 import numpy as np
 
 from openai import OpenAI
-client = OpenAI(api_key = "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")
+client = OpenAI(api_key = "Your API Key")
 
-df = pd.read_csv(r'D:\Work\Implementations\SYL chatbot\codes\OpenAI chat\processed\csv file\scraped_text_only.csv')
+df = pd.read_csv(r'Your CSV file')
 
 #embedding_model = "text-embedding-ada-002" 
 embedding_model = "text-embedding-3-small"
